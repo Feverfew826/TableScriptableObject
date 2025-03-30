@@ -1,0 +1,18 @@
+{
+    "name": "TableScriptableObject.Editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:a30a8a341d9c72247a771a5ac0fa891b"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

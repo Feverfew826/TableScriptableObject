@@ -1,0 +1,30 @@
+{
+  "name": "com.feverfew826.table-scriptable-object",
+  "version": "0.0.1",
+  "displayName": "TableScriptableObject",
+  "description": "This project aims to scriptable object as data table.",
+  "unity": "2022.3",
+  "unityRelease": "55f1",
+  "documentationUrl": "https://github.com/Feverfew826/TableScriptableObject/blob/main/README.md",
+  "changelogUrl": "https://github.com/Feverfew826/TableScriptableObject/commits/main/",
+  "licensesUrl": "https://github.com/Feverfew826/TableScriptableObject/blob/main/LICENSE",
+  "dependencies": {
+ },
+ "keywords": [
+    "Table",
+	"ScriptableObject",
+	"Editor"
+  ],
+  "author": {
+    "name": "Feverfew826",
+    "email": "lightkill826@gmail.com",
+    "url": "https://github.com/Feverfew826"
+  },
+  "samples": [
+        {
+            "displayName": "Usage sample",
+            "description": "This is usage sample.",
+            "path": "Samples~/UsageSample"
+        }
+	]
+}
