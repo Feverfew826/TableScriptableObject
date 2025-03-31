@@ -101,7 +101,6 @@ public class TableScriptableObjectEditor : EditorWindow
 
         _multiColumnListView = new MultiColumnListView();
         _multiColumnListView.itemsSource = _table.TableRecords;
-        _multiColumnListView.BindProperty(_serializedTableRecords);
         _multiColumnListView.itemsAdded += TableAdded;
         _multiColumnListView.selectionType = SelectionType.Multiple;
         _multiColumnListView.showAddRemoveFooter = true;
