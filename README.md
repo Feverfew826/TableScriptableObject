@@ -28,4 +28,4 @@ Package Manager에서 샘플 중 'UsageSample'을 임포트하여 테이블 샘�
 ## 설치 방법
 ### 1. 설치
 'Package Manager'의 좌상단의 '+' 버튼을 누르고, 'Add package from git URL'을 누르고, 다음 주소를 입력하세요.
-`https://github.com/Feverfew826/ScriptableObject.git?path=Assets/Plugins/ScriptableObject`
+`https://github.com/Feverfew826/ScriptableObject.git?path=Assets/Plugins/TableScriptableObject`
